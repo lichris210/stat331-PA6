@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 6"
-author: Finn Balfe, Ryan Keany, Chris Li
+author: "Finn Balfe, Ryan Keany, Chris Li, Sebastian Laprea"
 format: html
 editor: visual
 embed-resources: true

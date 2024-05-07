@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: Finn Balfe, Ryan Keany, Chris Li
 format: html
 editor: visual
 embed-resources: true
